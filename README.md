@@ -226,5 +226,3 @@ Example body:
 ---
 
 ```
-
-Would you like me to append a brief “Example Usage with curl” section at the end for quick testing commands?
